@@ -91,6 +91,6 @@
         </ul>
       </footer>
       <br><br>
-      <p>&copy; 2024 All rights reserved.</p>
+      <p>2024 All rights reserved.</p>
     </body>
     </html>
