@@ -53,15 +53,12 @@
             <div class="item active">
               <img src="https://wallpapercave.com/wp/wp9277538.jpg" alt="KEC" style="width:100%;">
             </div>
-      
             <div class="item">
               <img src="https://i.etsystatic.com/20293083/r/il/63539c/2513263319/il_794xN.2513263319_5j4z.jpg" alt="hostel" style="width:100%;">
             </div>
-
             <div class="item">
               <img src="https://wallpapercave.com/wp/wp9277593.jpg" alt="arriia" style="width:100%;">
             </div>
-
             <div class="item">
                 <img src="https://st2.depositphotos.com/3378121/5468/i/950/depositphotos_54681823-stock-photo-night-view-of-a-cafe.jpg" alt="s&h" style="width:100%;">
               </div>
